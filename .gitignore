@@ -1,0 +1,22 @@
+# Environments
+.env
+
+# Dependencies
+node_modules/
+.venv/
+venv/
+env/
+
+# Build outputs
+dist/
+build/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system files
+.DS_Store
+Thumbs.db
